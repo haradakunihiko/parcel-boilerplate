@@ -1,0 +1,19 @@
+{
+  "name": "example-vue-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.57",
+    "vue": "^2.5.9",
+    "vue-class-component": "^6.1.1"
+  }
+}
